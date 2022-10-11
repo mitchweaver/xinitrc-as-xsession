@@ -1,5 +1,5 @@
 PREFIX = /usr/local
-DESKTOP_FILE = xinit-as-xsession.desktop
+DESKTOP_FILE = xinitrc-as-xsession.desktop
 BIN = xinitrc-as-xsession
 
 all:
