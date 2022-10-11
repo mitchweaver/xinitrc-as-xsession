@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=xinitrc
+Comment=xinitrc as xsession
+Exec=xinitrc-as-xsession
+Type=XSession
